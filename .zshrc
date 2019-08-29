@@ -1,3 +1,5 @@
+ZSH_THEME=agnoster
+
 # place this after nvm initialization!
 autoload -U add-zsh-hook
 load-nvmrc() {
